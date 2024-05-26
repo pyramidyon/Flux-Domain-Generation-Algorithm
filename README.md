@@ -1,5 +1,3 @@
-# Flux-Domain-Generation-Algorithm
-
 # Flux Domain Generation Algorithm (@Pyramidyon)
 **Demo:** 
 
