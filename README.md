@@ -5,7 +5,7 @@
 
 ## Introduction
 
-Domain Generation Algorithms (DGAs) are widely used in malware to generate domain names dynamically. These algorithms often contain flaws, including susceptibility to reverse engineering. Moreover, for effective operation, infected machines must have accurately set timezones—a condition generally met.
+Domain Generation Algorithms (DGAs) are widely used in malware to generate domain names dynamically. These algorithms often contain flaws, including susceptibility to reverse engineering. Moreover, for effective operation, infected machines must have accurately set timezones, a condition generally met.
 
 This prompts a critical question: What is common among most malware? The answer lies in their primary function—to establish a network connection.
 
