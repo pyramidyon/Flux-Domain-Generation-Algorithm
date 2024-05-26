@@ -1,7 +1,9 @@
 # Flux Domain Generation Algorithm (@Pyramidyon)
 **Demo:** 
 
-[![Flux DGA demo](https://raw.githubusercontent.com/pyramidyon/Flux-Domain-Generation-Algorithm/main/flux-dga.png)](https://github.com/pyramidyon/Flux-Domain-Generation-Algorithm/raw/main/flux-dga-demo.mp4)
+https://github.com/pyramidyon/Flux-Domain-Generation-Algorithm/assets/88564775/ecaed156-cc4f-4b33-977d-08a033c5a864
+
+
 
 ## Introduction
 
